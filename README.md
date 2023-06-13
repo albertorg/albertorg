@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://github.com/albertorg/albertorg/assets/57998849/d87f215c-1138-46d3-8153-7fb6234a9436" width="50" height="50"/>
+</p>
+
 
 Welcome 👋 , I'm Alberto Rodríguez García.
 
